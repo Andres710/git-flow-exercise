@@ -16,8 +16,8 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ### [John Lemon](writer/john-lemon.md) | 
 
-[Candied Carrots](/recipe/feb/candied-carrots.md)
+[Candied Carrots](recipe/feb/candied-carrots.md)
 
 ### [Madame Croque](writer/madame-croque.md) | 
 
-[Roast Pork and Pickled Cucumber Sandwich](/recipe/feb/roast-pork-pickled-cucumber-sandwich.md)
+[Roast Pork and Pickled Cucumber Sandwich](recipe/feb/roast-pork-pickled-cucumber-sandwich.md)
